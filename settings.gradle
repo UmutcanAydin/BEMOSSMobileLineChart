@@ -1,0 +1,2 @@
+rootProject.name='JavaChartProject'
+include ':app'
